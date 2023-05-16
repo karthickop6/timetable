@@ -112,3 +112,5 @@ Execute the program
 ```
 
 # OUPUT
+
+![](https://github.com/karthickop6/timetable/blob/main/Screenshot%202023-05-16%20135903.png)
